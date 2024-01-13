@@ -1,6 +1,6 @@
 '''
 This module provides a reusable byline for KC Sports Analytics 
-Last updated 1.14.2024 '''
+Last updated 1.12.2024 '''
 
 import math
 import statistics
